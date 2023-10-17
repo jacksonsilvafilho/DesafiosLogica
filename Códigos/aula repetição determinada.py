@@ -1,4 +1,4 @@
-#exemplo de somatório
+#exemplo de somatório, no valor de soma substitua por um valor inteiro.
 
 soma = 0
 num = int(input("Num: "))
